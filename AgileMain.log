@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.8.23)  24 FEB 2012 11:18
-=======
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.8.23)  24 FEB 2012 11:12
->>>>>>> ec9e081f97f329f50d41038d94f6f782cf93b488
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.8.23)  24 FEB 2012 11:22
 entering extended mode
  %&-line parsing enabled.
 **AgileMain.tex
@@ -284,8 +280,11 @@ Tor-valds att utveckla
 [3 <./CVCS.png>]) (./utforande.tex
 <Tidslinje.png, id=20, 582.175pt x 220.825pt>
 File: Tidslinje.png Graphic file (type png)
- <use Tidslinje.png> [4 <./DVCS.png>] [5 <./Tidslinje.png>] [6]) [7] (./resulta
-t.tex
+ <use Tidslinje.png> [4 <./DVCS.png>] [5 <./Tidslinje.png>] [6]
+
+LaTeX Warning: Citation `Gatekeeper' on page 7 undefined on input line 32.
+
+) [7] (./resultat.tex
 Overfull \hbox (8.0631pt too wide) in paragraph at lines 1--2
 \OT1/ppl/m/n/12 sul-tat och re-flek-tioner. Detta inklud-erar re-sul-taten fr[]
 an enk[]atunders[]okningar
@@ -322,46 +321,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 1060--1061
 hive / 2011 / 07 / 11 /
  []
 
+[11] (./AgileMain.aux)
 
-Underfull \hbox (badness 10000) in paragraph at lines 1087--1088
-[]\OT1/ppl/m/n/9 Brian Berliner and Nayan B. Ru-par-e-lia. 2010. Early days of 
-CVS. SIG-SOFT
- []
+LaTeX Warning: There were undefined references.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1087--1088
-\OT1/ppl/m/n/9 Softw. Eng. Notes 35, 5 (Oc-to-ber 2010), 5-6. DOI=10.1145/18386
-87.1838689
- []
-
-[11] (./AgileMain.aux) ) 
+ ) 
 Here is how much of TeX's memory you used:
-<<<<<<< HEAD
- 4022 strings out of 495046
- 60217 string characters out of 1181966
+ 4025 strings out of 495046
+ 60244 string characters out of 1181966
  223744 words of memory out of 3000000
- 7152 multiletter control sequences out of 15000+50000
-=======
- 4018 strings out of 495046
- 60140 string characters out of 1181966
- 221744 words of memory out of 3000000
- 7149 multiletter control sequences out of 15000+50000
->>>>>>> ec9e081f97f329f50d41038d94f6f782cf93b488
- 39927 words of font info for 83 fonts, out of 3000000 for 9000
+ 7154 multiletter control sequences out of 15000+50000
+ 40536 words of font info for 84 fonts, out of 3000000 for 9000
  31 hyphenation exceptions out of 8191
  36i,10n,38p,1672b,613s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}<
-/usr/share/texmf-texlive/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texmf-
-texlive/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texmf-texlive/fonts/typ
-e1/urw/helvetic/uhvro8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/palatino/
-uplb8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/palatino/uplr8a.pfb></usr/
-share/texmf-texlive/fonts/type1/urw/palatino/uplri8a.pfb></usr/share/texmf-texl
-ive/fonts/type1/urw/zapfding/uzdr.pfb>
-<<<<<<< HEAD
-Output written on AgileMain.pdf (11 pages, 191279 bytes).
-=======
-Output written on AgileMain.pdf (11 pages, 184110 bytes).
->>>>>>> ec9e081f97f329f50d41038d94f6f782cf93b488
+{/usr/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-texli
+ve/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texmf-texlive/fonts/type1/ur
+w/helvetic/uhvr8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/helvetic/uhvro8
+a.pfb></usr/share/texmf-texlive/fonts/type1/urw/palatino/uplb8a.pfb></usr/share
+/texmf-texlive/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texmf-texlive/fo
+nts/type1/urw/palatino/uplri8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/za
+pfding/uzdr.pfb>
+Output written on AgileMain.pdf (11 pages, 191839 bytes).
 PDF statistics:
  74 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
