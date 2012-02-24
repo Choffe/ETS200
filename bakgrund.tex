@@ -1,10 +1,10 @@
 Här följer en beskrivning över hur de två kurserna samspelar samt lite mer ingående hur de olika VCS fungerar och skillnader mellan dem.
-\subsection{VÅR SITUATION}
+\subsection{Vår situation}
 
 Projektet som vi ska utföra vår studie på är ett delat projekt mellan två kurser. Den ena kursen går ut på att utveckla ett mjukvaruprojekt över en sju veckor lång period. Den andra kursen går ut på att gå in i en ledarroll och coacha en av grupperna under deras projekt. Projektet ska simulera ett verkligt utvecklingsprojekt med en kund och Extreme Programming (XP)~\cite{BeckXP} som utvecklingsmetod. Gruppen kommer att använda sig utav utvecklingsverktyget Eclipse och programmeringen sker i Java. Gruppen har innan projektets början fått lära sig XP och SVN genom föreläsningar och laborationer. För att testa koden under laborationerna kommer JUnit att användas som verktyg.
 
 
-\subsection{VERSIONSHANTERING}
+\subsection{Versionshantering}
 
 I mjukvaruprojekt behöver utvecklarna dela filer och dokument med varandra. I ett mindre projekt med ett fåtal utvecklare går det att komma undan med att skicka filer via email och att tillsammans sitta och sammanfoga dokument. Detta kan med tiden bli mycket tidskrävande och komplicerat med många versioner av samma dokument i omlopp. Det är i ett sådant läge som ett VCS kan användas och förenkla arbetet. Ett VCS tillåter att ett godtyckligt antal utvecklare jobbar med samma projekt och delar alla projektfiler på en plats, även kallat ett repositorie (hädanefter refererat till som repo). När en fil ändras sparas informationen om vad som har ändrats samt att filen får ett nytt versionsnummer. På detta vis håller systemet reda på vilken som är den senaste versionen av en fil samt möjliggör för utvecklarna att återställa en tidigare version av filen.
 
@@ -24,7 +24,7 @@ Datavetenskapsinstitutionen har valt att lära ut ett VCS kallat Concurrent Vers
 	CVS utvecklas inte längre men det finns många CVS-kloner som har samma funktionalitet som CVS. Klonerna är främst utvecklade för att lösa buggar och lägga till funktioner som saknades i den sista släppta versionen av CVS. Subversion (SVN) är en av dessa kloner och är systemet som används under PVG-projekten. Funktionerna som finns i CVS finns även i SVN och fungerar analogt. Även för SVN finns det GUI att installera till Eclipse för att grafiskt hantera projektfilerna. 
  
 
-\subsection{GIT}
+\subsection{Git}
 
 \begin{figure}[htb!]\centering\includegraphics[width=0.75\textwidth]{DVCS.png}\caption{Visar upplägget i ett decentraliserat versionshanteringssytem. Alla användare kan koppla upp sig mot ett centralt repo men kan också dela filer mellan varandra}\label{fig:DVCSPic}\end{figure}
 
