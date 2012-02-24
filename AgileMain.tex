@@ -549,8 +549,8 @@
 % page by themselves.
 
 
-
-
+\renewcommand{\refname}{Referenser}
+\renewcommand{\abstractname}{Abstrakt}
 
 % *** PDF, URL AND HYPERLINK PACKAGES ***
 %
@@ -872,7 +872,7 @@ pdfkeywords={Computer Society, IEEEtran, journal, LaTeX, paper,
 \label{resultat}
 \input{resultat}
 
-\section{Slutsats}
+\section{Slutsats - Git som standard i XP projekt}
 \label{slutsats}
 \input{slutsats}
 
@@ -985,14 +985,11 @@ pdfkeywords={Computer Society, IEEEtran, journal, LaTeX, paper,
 %\appendix[Proof of the Zonklar Equations]
 % or
 \newpage
-\appendix  % for no appendix heading
+%\appendix  % for no appendix heading
 % do not use \section anymore after \appendix, only \section*
 % is possibly needed
 
-\appendices
 
-\input{enkat}
-\input{gitguide}
 
 
 % use appendices with more than one appendix
@@ -1045,9 +1042,9 @@ pdfkeywords={Computer Society, IEEEtran, journal, LaTeX, paper,
 % set second argument of \begin to the number of references
 % (used to reserve space for the reference number labels box)
 \newpage
+
 \begin{thebibliography}{1}
 \label{bibliography}
-
 
 
 %\bibitem{IEEEhowto:kopka} % Add referenses in the same way as this one, and call them by ~\cite{biblabel}
@@ -1058,9 +1055,6 @@ Browser Statistics. W3Schools.com. \url{http://www.w3schools.com/browsers/browse
 
  \bibitem{OpenSource}
 Open Source Developer Preferences Survey. Microsoft Developer Network (MSDN). \url{http://blogs.msdn.com/b/codeplex/archive/2011/07/11/survey-results-open-source-developer-preferences-june-2011.aspx} (June 2011)
-
-\bibitem{BeckTDD}
-Beck, K., \emph{Test Driven Development -- by Example}. Boston: Addison Wesley, 2003.
 
 \bibitem{BeckXP}
 Beck, K., \emph{Extreme Programming Explained: Embrace Change}. Reading, Massachusetts: Addison-Wesley, 2000.
