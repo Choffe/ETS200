@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.8.23)  24 FEB 2012 10:48
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.8.23)  24 FEB 2012 11:12
 entering extended mode
  %&-line parsing enabled.
 **AgileMain.tex
@@ -315,15 +315,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 1060--1061
 hive / 2011 / 07 / 11 /
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 1087--1088
+[]\OT1/ppl/m/n/9 Brian Berliner and Nayan B. Ru-par-e-lia. 2010. Early days of 
+CVS. SIG-SOFT
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1087--1088
+\OT1/ppl/m/n/9 Softw. Eng. Notes 35, 5 (Oc-to-ber 2010), 5-6. DOI=10.1145/18386
+87.1838689
+ []
+
 [11] (./AgileMain.aux) ) 
 Here is how much of TeX's memory you used:
- 4016 strings out of 495046
- 60119 string characters out of 1181966
+ 4018 strings out of 495046
+ 60140 string characters out of 1181966
  221744 words of memory out of 3000000
- 7147 multiletter control sequences out of 15000+50000
+ 7149 multiletter control sequences out of 15000+50000
  39927 words of font info for 83 fonts, out of 3000000 for 9000
  31 hyphenation exceptions out of 8191
- 36i,10n,38p,1655b,613s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,10n,38p,1672b,613s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}<
 /usr/share/texmf-texlive/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texmf-
 texlive/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texmf-texlive/fonts/typ
@@ -331,7 +343,7 @@ e1/urw/helvetic/uhvro8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/palatino/
 uplb8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/palatino/uplr8a.pfb></usr/
 share/texmf-texlive/fonts/type1/urw/palatino/uplri8a.pfb></usr/share/texmf-texl
 ive/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on AgileMain.pdf (11 pages, 183895 bytes).
+Output written on AgileMain.pdf (11 pages, 184110 bytes).
 PDF statistics:
  72 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
