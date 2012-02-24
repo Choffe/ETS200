@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.8.23)  24 FEB 2012 11:18
-=======
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.8.23)  24 FEB 2012 11:12
->>>>>>> ec9e081f97f329f50d41038d94f6f782cf93b488
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.8.23)  24 FEB 2012 11:24
 entering extended mode
  %&-line parsing enabled.
 **AgileMain.tex
@@ -336,17 +332,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 1087--1088
 
 [11] (./AgileMain.aux) ) 
 Here is how much of TeX's memory you used:
-<<<<<<< HEAD
- 4022 strings out of 495046
- 60217 string characters out of 1181966
+ 4024 strings out of 495046
+ 60238 string characters out of 1181966
  223744 words of memory out of 3000000
- 7152 multiletter control sequences out of 15000+50000
-=======
- 4018 strings out of 495046
- 60140 string characters out of 1181966
- 221744 words of memory out of 3000000
- 7149 multiletter control sequences out of 15000+50000
->>>>>>> ec9e081f97f329f50d41038d94f6f782cf93b488
+ 7154 multiletter control sequences out of 15000+50000
  39927 words of font info for 83 fonts, out of 3000000 for 9000
  31 hyphenation exceptions out of 8191
  36i,10n,38p,1672b,613s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -357,11 +346,7 @@ e1/urw/helvetic/uhvro8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/palatino/
 uplb8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/palatino/uplr8a.pfb></usr/
 share/texmf-texlive/fonts/type1/urw/palatino/uplri8a.pfb></usr/share/texmf-texl
 ive/fonts/type1/urw/zapfding/uzdr.pfb>
-<<<<<<< HEAD
-Output written on AgileMain.pdf (11 pages, 191279 bytes).
-=======
-Output written on AgileMain.pdf (11 pages, 184110 bytes).
->>>>>>> ec9e081f97f329f50d41038d94f6f782cf93b488
+Output written on AgileMain.pdf (11 pages, 191431 bytes).
 PDF statistics:
  74 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
