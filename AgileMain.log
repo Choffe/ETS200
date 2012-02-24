@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.8.23)  24 FEB 2012 10:48
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.8.23)  24 FEB 2012 11:18
 entering extended mode
  %&-line parsing enabled.
 **AgileMain.tex
@@ -277,13 +277,16 @@ Overfull \hbox (2.92557pt too wide) in paragraph at lines 32--33
 Tor-valds att utveckla
  []
 
-[3 <./CVCS.png>]) (./utforande.tex [4 <./DVCS.png>] [5] [6]) (./resultat.tex
+[3 <./CVCS.png>]) (./utforande.tex
+<Tidslinje.png, id=20, 582.175pt x 220.825pt>
+File: Tidslinje.png Graphic file (type png)
+ <use Tidslinje.png> [4 <./DVCS.png>] [5 <./Tidslinje.png>] [6]) [7] (./resulta
+t.tex
 Overfull \hbox (8.0631pt too wide) in paragraph at lines 1--2
 \OT1/ppl/m/n/12 sul-tat och re-flek-tioner. Detta inklud-erar re-sul-taten fr[]
 an enk[]atunders[]okningar
  []
 
-[7]
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <12> not available
 (Font)              Font shape `OT1/phv/m/sl' tried instead on input line 7.
 ) (./slutsats.tex) (./terminologi.tex
@@ -317,10 +320,10 @@ hive / 2011 / 07 / 11 /
 
 [11] (./AgileMain.aux) ) 
 Here is how much of TeX's memory you used:
- 4016 strings out of 495046
- 60119 string characters out of 1181966
- 221744 words of memory out of 3000000
- 7147 multiletter control sequences out of 15000+50000
+ 4022 strings out of 495046
+ 60217 string characters out of 1181966
+ 223744 words of memory out of 3000000
+ 7152 multiletter control sequences out of 15000+50000
  39927 words of font info for 83 fonts, out of 3000000 for 9000
  31 hyphenation exceptions out of 8191
  36i,10n,38p,1655b,613s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -331,9 +334,9 @@ e1/urw/helvetic/uhvro8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/palatino/
 uplb8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/palatino/uplr8a.pfb></usr/
 share/texmf-texlive/fonts/type1/urw/palatino/uplri8a.pfb></usr/share/texmf-texl
 ive/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on AgileMain.pdf (11 pages, 183895 bytes).
+Output written on AgileMain.pdf (11 pages, 191279 bytes).
 PDF statistics:
- 72 PDF objects out of 1000 (max. 8388607)
+ 74 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
