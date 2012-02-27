@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.8.23)  24 FEB 2012 11:24
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.8.23)  24 FEB 2012 13:10
 entering extended mode
  %&-line parsing enabled.
 **AgileMain.tex
@@ -266,9 +266,6 @@ ment med varan-
 <CVCS.png, id=9, 580.1675pt x 350.30875pt>
 File: CVCS.png Graphic file (type png)
  <use CVCS.png> [2]
-(/usr/share/texmf-texlive/tex/latex/ucs/data/uni-32.def
-File: uni-32.def 2004/10/17 UCS: Unicode data U+2000..U+20FF
-)
 <DVCS.png, id=14, 580.1675pt x 472.76625pt>
 File: DVCS.png Graphic file (type png)
  <use DVCS.png>
@@ -280,16 +277,14 @@ Tor-valds att utveckla
 [3 <./CVCS.png>]) (./utforande.tex
 <Tidslinje.png, id=20, 582.175pt x 220.825pt>
 File: Tidslinje.png Graphic file (type png)
- <use Tidslinje.png> [4 <./DVCS.png>] [5 <./Tidslinje.png>] [6]) [7] (./resulta
-t.tex
-Overfull \hbox (8.0631pt too wide) in paragraph at lines 1--2
-\OT1/ppl/m/n/12 sul-tat och re-flek-tioner. Detta inklud-erar re-sul-taten fr[]
-an enk[]atunders[]okningar
- []
-
+ <use Tidslinje.png> [4 <./DVCS.png>] [5 <./Tidslinje.png>] [6]
+(/usr/share/texmf-texlive/tex/latex/ucs/data/uni-32.def
+File: uni-32.def 2004/10/17 UCS: Unicode data U+2000..U+20FF
+)) [7] (./resultat.tex
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <12> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 7.
-) (./slutsats.tex) (./terminologi.tex
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 15.
+)
+(./slutsats.tex) [8] (./terminologi.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <9> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -300,45 +295,33 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 LaTeX Warning: Float too large for page by 9.97163pt on input line 30.
 
-) [8] [9] (./enkat.tex) (./gitguide.tex) [10]
-Underfull \hbox (badness 4168) in paragraph at lines 1057--1058
+) [9] [10]
+Underfull \hbox (badness 4168) in paragraph at lines 1054--1055
 []\OT1/ppl/m/n/9 Browser Statis-tics. W3Schools.com. $http : / / www . w3school
 s . com / browsers / browsers[]stats .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1060--1061
+Underfull \hbox (badness 10000) in paragraph at lines 1057--1058
 []\OT1/ppl/m/n/9 Open Source De-vel-oper Pref-er-ences Sur-vey. Mi-crosoft De-v
 el-oper Net-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1060--1061
+Underfull \hbox (badness 10000) in paragraph at lines 1057--1058
 \OT1/ppl/m/n/9 work (MSDN). $http : / / blogs . msdn . com / b / codeplex / arc
 hive / 2011 / 07 / 11 /
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1087--1088
-[]\OT1/ppl/m/n/9 Brian Berliner and Nayan B. Ru-par-e-lia. 2010. Early days of 
-CVS. SIG-SOFT
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1087--1088
-\OT1/ppl/m/n/9 Softw. Eng. Notes 35, 5 (Oc-to-ber 2010), 5-6. DOI=10.1145/18386
-87.1838689
- []
-
 [11] (./AgileMain.aux) ) 
 Here is how much of TeX's memory you used:
- 4024 strings out of 495046
- 60238 string characters out of 1181966
- 223744 words of memory out of 3000000
- 7154 multiletter control sequences out of 15000+50000
+ 4016 strings out of 495046
+ 60162 string characters out of 1181966
+ 220744 words of memory out of 3000000
+ 7152 multiletter control sequences out of 15000+50000
  39927 words of font info for 83 fonts, out of 3000000 for 9000
  31 hyphenation exceptions out of 8191
- 36i,10n,38p,1672b,613s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,10n,38p,1774b,613s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}<
 /usr/share/texmf-texlive/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texmf-
 texlive/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texmf-texlive/fonts/typ
@@ -346,7 +329,7 @@ e1/urw/helvetic/uhvro8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/palatino/
 uplb8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/palatino/uplr8a.pfb></usr/
 share/texmf-texlive/fonts/type1/urw/palatino/uplri8a.pfb></usr/share/texmf-texl
 ive/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on AgileMain.pdf (11 pages, 191431 bytes).
+Output written on AgileMain.pdf (11 pages, 194713 bytes).
 PDF statistics:
  74 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
