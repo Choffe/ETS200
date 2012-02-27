@@ -1,0 +1,344 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.8.23)  27 FEB 2012 17:08
+entering extended mode
+ %&-line parsing enabled.
+**AgileMain.tex
+(./AgileMain.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, swedish, loaded.
+(./IEEEtran.cls
+Document Class: IEEEtran 2007/03/05 V1.7a by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmptoksA=\toks14
+-- Using IEEE Computer Society mode.
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 366.
+
+(/usr/share/texmf-texlive/tex/latex/psnfss/ot1ppl.fd
+File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+)
+** ATTENTION: Single column mode is not typically used with IEEE publications.
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen104
+-- This is a 12 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen105
+\CLASSINFOnormalsizeunitybaselineskip=\dimen106
+\IEEEnormaljot=\dimen107
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <6> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <14> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <14> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <22> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <22> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 724.
+** ATTENTION: Overriding inner side margin to 1.5in and outer side margin to 1.
+5in via \CLASSINPUT.
+\IEEEilabelindentA=\dimen108
+\IEEEilabelindentB=\dimen109
+\IEEEilabelindent=\dimen110
+\IEEEelabelindent=\dimen111
+\IEEEdlabelindent=\dimen112
+\IEEElabelindent=\dimen113
+\IEEEiednormlabelsep=\dimen114
+\IEEEiedmathlabelsep=\dimen115
+\IEEEiedtopsep=\skip41
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@IEEEsubequation=\count85
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count86
+\c@table=\count87
+\@IEEEeqnnumcols=\count88
+\@IEEEeqncolcnt=\count89
+\@IEEEtmpitemindent=\dimen116
+\c@IEEEbiography=\count90
+\@IEEEtranrubishbin=\box26
+) (/usr/share/texmf-texlive/tex/latex/lipsum/lipsum.sty
+Package: lipsum 2005/01/26 v1.0 150 paragraphs of Lorem Ipsum dummy text
+File: lipsum.dtx 2005/01/26 v1.0 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count91
+)
+(/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+
+(/usr/share/texmf-texlive/tex/latex/ucs/utf8x.def
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+))
+(/usr/share/texmf-texlive/tex/latex/ucs/ucs.sty
+Package: ucs 2004/10/17 UCS: Unicode input support
+
+(/usr/share/texmf-texlive/tex/latex/ucs/data/uni-global.def
+File: uni-global.def 2004/10/17 UCS: Unicode global data
+)
+\uc@secondtry=\count92
+\uc@combtoks=\toks17
+\uc@combtoksb=\toks18
+\uc@temptokena=\toks19
+)
+(/usr/share/texmf-texlive/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 285.
+LaTeX Info: Redefining \nocite on input line 356.
+Package: cite 2009/08/29  v 5.2
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
+\Gread@gobject=\count93
+))
+\Gin@req@height=\dimen117
+\Gin@req@width=\dimen118
+)
+(/usr/share/texmf-texlive/tex/latex/caption/caption.sty
+Package: caption 2009/10/09 v3.1k Customizing captions (AR)
+
+(/usr/share/texmf-texlive/tex/latex/caption/caption3.sty
+Package: caption3 2009/10/09 v3.1k caption3 kernel (AR)
+\captionmargin=\dimen119
+\captionmargin@=\dimen120
+\captionwidth=\dimen121
+\caption@indent=\dimen122
+\caption@parindent=\dimen123
+\caption@hangindent=\dimen124
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used on input line 1068.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2->\ifx \@captype \@IEEEta
+blestring \normalsize \begin {center}{\normalfont \sffamily \normalsize #1}\\{\
+normalfont \sffamily \normalsize #2}\end {center}\@IEEEtablecaptionsepspace \el
+se \@IEEEfigurecaptionsepspace \setbox \@tempboxa \hbox {\normalfont \sffamily 
+\normalsize {#1.}~ #2}\ifdim \wd \@tempboxa >\hsize \setbox \@tempboxa \hbox {\
+normalfont \sffamily \normalsize {#1.}~ }\parbox [t]{\hsize }{\normalfont \sffa
+mily \normalsize \noindent \unhbox \@tempboxa #2}\else \hbox to\hsize {\normalf
+ont \sffamily \normalsize \box \@tempboxa \hfil }\fi \fi .
+\c@ContinuedFloat=\count94
+) (/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+) (./AgileMain.aux)
+\openout1 = `AgileMain.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 684.
+LaTeX Font Info:    ... okay on input line 684.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 684.
+LaTeX Font Info:    ... okay on input line 684.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 684.
+LaTeX Font Info:    ... okay on input line 684.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 684.
+LaTeX Font Info:    ... okay on input line 684.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 684.
+LaTeX Font Info:    ... okay on input line 684.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 684.
+LaTeX Font Info:    ... okay on input line 684.
+
+(/usr/share/texmf-texlive/tex/latex/ucs/ucsencs.def
+File: ucsencs.def 2003/11/29 Fixes to fontencodings LGR, T3
+)
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count95
+\scratchdimen=\dimen125
+\scratchbox=\box27
+\nofMPsegments=\count96
+\nofMParguments=\count97
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count98
+\MPscratchDim=\dimen126
+\MPnumerator=\count99
+\everyMPtoPDFconversion=\toks22
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 803.
+
+ (/usr/share/texmf-texlive/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+(/usr/share/texmf-texlive/tex/latex/ucs/data/uni-0.def
+File: uni-0.def 2004/10/17 UCS: Unicode data U+0000..U+00FF
+)
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <9> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 803.
+ (./abstract.tex)
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 803.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14> on input line 803.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9.79996> on input line 803.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 803.
+LaTeX Font Info:    Try loading font information for U+pzd on input line 803.
+
+(/usr/share/texmf-texlive/tex/latex/psnfss/upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <14> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 828.
+LaTeX Font Info:    Font shape `OT1/phv/bx/sc' in size <14> not available
+(Font)              Font shape `OT1/phv/b/sc' tried instead on input line 828.
+ (./introduction.tex
+Overfull \hbox (6.63608pt too wide) in paragraph at lines 1--2
+\OT1/ppl/m/n/12 m[]anga kom-mer-siella pro-gram finns idag open source al-ter-n
+a-tiv. Webbl[]asare,
+ []
+
+
+Overfull \hbox (23.1958pt too wide) in paragraph at lines 3--4
+\OT1/ppl/m/n/12 oavsett vilken plat-tform som anv[]andes. Samma un-ders[]okning
+ hade genomf[]orts
+ []
+
+
+Overfull \hbox (2.87811pt too wide) in paragraph at lines 5--6
+[]\OT1/ppl/m/n/12 N[]ar man l[]aser till Civilin-genj[]or i Datateknik p[]a Lun
+ds Tekniska H[]ogskola
+ []
+
+) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./bakgrund.tex
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 2.
+
+Overfull \hbox (2.7566pt too wide) in paragraph at lines 9--10
+\OT1/ppl/m/n/12 I mjuk-varupro-jekt beh[]over utveck-larna dela filer och doku-
+ment med varan-
+ []
+
+[2] <CVCS.png, id=12, 580.1675pt x 350.30875pt>
+File: CVCS.png Graphic file (type png)
+ <use CVCS.png>
+<DVCS.png, id=14, 580.1675pt x 472.76625pt>
+File: DVCS.png Graphic file (type png)
+ <use DVCS.png>
+Overfull \hbox (2.92557pt too wide) in paragraph at lines 32--33
+\OT1/ppl/m/n/12 F[]or att hantera k[]allkoden till Lin-uxk[]arnan valde Li-nus 
+Tor-valds att utveckla
+ []
+
+[3 <./CVCS.png>]) (./utforande.tex
+<Tidslinje.png, id=20, 582.175pt x 220.825pt>
+File: Tidslinje.png Graphic file (type png)
+ <use Tidslinje.png> [4 <./DVCS.png>] [5 <./Tidslinje.png>] [6]
+(/usr/share/texmf-texlive/tex/latex/ucs/data/uni-32.def
+File: uni-32.def 2004/10/17 UCS: Unicode data U+2000..U+20FF
+) [7]) (./resultat.tex
+[8] <EnkatResultatMindre.png, id=39, 581.5326pt x 264.0264pt>
+File: EnkatResultatMindre.png Graphic file (type png)
+
+<use EnkatResultatMindre.png>
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <12> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 17.
+) (./slutsats.tex) (./terminologi.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 3.
+
+
+LaTeX Warning: Float too large for page by 73.77156pt on input line 32.
+
+) [9 <./EnkatResultatMindre.png>] [10]
+Underfull \hbox (badness 4168) in paragraph at lines 1054--1055
+[]\OT1/ppl/m/n/9 Browser Statis-tics. W3Schools.com. $http : / / www . w3school
+s . com / browsers / browsers[]stats .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1057--1058
+[]\OT1/ppl/m/n/9 Open Source De-vel-oper Pref-er-ences Sur-vey. Mi-crosoft De-v
+el-oper Net-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1057--1058
+\OT1/ppl/m/n/9 work (MSDN). $http : / / blogs . msdn . com / b / codeplex / arc
+hive / 2011 / 07 / 11 /
+ []
+
+[11] (./AgileMain.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4022 strings out of 495046
+ 60307 string characters out of 1181966
+ 222744 words of memory out of 3000000
+ 7157 multiletter control sequences out of 15000+50000
+ 39927 words of font info for 83 fonts, out of 3000000 for 9000
+ 31 hyphenation exceptions out of 8191
+ 36i,10n,38p,1790b,613s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-texli
+ve/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texmf-texlive/fonts/type1/ur
+w/helvetic/uhvr8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/helvetic/uhvro8
+a.pfb></usr/share/texmf-texlive/fonts/type1/urw/palatino/uplb8a.pfb></usr/share
+/texmf-texlive/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texmf-texlive/fo
+nts/type1/urw/palatino/uplri8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/za
+pfding/uzdr.pfb>
+Output written on AgileMain.pdf (11 pages, 230097 bytes).
+PDF statistics:
+ 76 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+
